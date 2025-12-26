@@ -20,12 +20,12 @@ These projects utilize unstructured data sources such as the **20 Newsgroups dat
 * **Action:** Utilized **Regular Expressions (Regex)** to extract specific patterns (like emails or dates) and employed **spaCy** for linguistic processing such as tokenization. It also introduces the concept of **List Comprehensions** for efficient coding.
 * **Goal Achieved:** Automated the extraction of specific information from unstructured text and prepared data for vectorization by normalizing linguistic structures.
 
-### 3. `Bag of Words, TF_IDF, Text Similarity.ipynb`
+### 3. `Bag_of_Words,_TF_IDF,_Text_Similarity.ipynb`
 * **About:** Focuses on converting text into numerical representations (Feature Extraction) and measuring document similarity.
 * **Action:** Implemented **Bag-of-Words (BoW)** and **TF-IDF (Term Frequency-Inverse Document Frequency)** vectorization techniques. Calculated **Cosine Similarity** to find relationships between documents and built a **Naive Bayes classifier** to detect spam messages.
 * **Goal Achieved:** Successfully transformed text into statistical vectors to perform quantitative analysis and built a functional text classification model.
 
-### 4. `Exploratory Data Analysis & Topic Modeling.ipynb`
+### 4. `Exploratory_Data_Analysis_& _Topic_Modeling.ipynb`
 * **About:** A comprehensive analysis of the **20 Newsgroups dataset** to understand data distribution before modeling.
 * **Action:** Performed rigorous EDA steps including checking for missing values, analyzing text length distributions via histograms, and visualizing high-frequency terms using **Word Clouds** and bar charts.
 * **Goal Achieved:** Gained deep actionable insights into the dataset's structure and content, identifying key trends and data imbalances to inform model selection.

@@ -15,7 +15,7 @@ These projects utilize unstructured data sources such as the **20 Newsgroups dat
 * **Action:** Implemented core string manipulation techniques, including case conversion, string concatenation, and list slicing. It establishes the basics of transforming raw text strings into manageable data structures.
 * **Goal Achieved:** Mastered the fundamental Python operations required to prepare and clean raw text data for downstream analysis.
 
-### 2. `Regex, Spacy, Bag of Words.ipynb`
+### 2. `Regex,_Spacy,_Bag_of_Words.ipynb`
 * **About:** A deep dive into pattern matching and advanced text normalization using industrial-strength NLP libraries.
 * **Action:** Utilized **Regular Expressions (Regex)** to extract specific patterns (like emails or dates) and employed **spaCy** for linguistic processing such as tokenization. It also introduces the concept of **List Comprehensions** for efficient coding.
 * **Goal Achieved:** Automated the extraction of specific information from unstructured text and prepared data for vectorization by normalizing linguistic structures.
